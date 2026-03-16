@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+mysql-connector-python
+bcrypt
+PyJWT
+pillow
+torch
+torchvision
+anthropic
