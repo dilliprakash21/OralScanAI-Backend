@@ -1,1 +1,0 @@
-[('email', 'varchar(255)', 'NO', 'PRI', None, ''), ('user_id', 'char(36)', 'NO', 'MUL', None, ''), ('otp_hash', 'text', 'NO', '', None, ''), ('expires_at', 'datetime', 'NO', '', None, ''), ('attempts', 'int', 'YES', '', '0', ''), ('locked_until', 'datetime', 'YES', '', None, ''), ('created_at', 'datetime', 'YES', '', 'CURRENT_TIMESTAMP', 'DEFAULT_GENERATED')]
